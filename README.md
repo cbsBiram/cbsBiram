@@ -26,7 +26,7 @@
 
 <ul>
     <li>🔭 I’m currently working on the first version of my portfolio website. I hope to share the link here in a few days.</li>
-    <li>🧐 Learning about <strong>Cloud/DevOps</strong>, <strong>Distributed Systems & MicroServices</strong>.</li>
+    <li>🧐 Learning about <strong>Cloud/DevOps</strong>, <strong>Distributed Systems & MicroServices</strong> and a bit of <strong>Data Engineer</strong>.</li>
     <li>💬 Ping me about <strong>fullstack dev, and devOps stuff</strong>.</li>
     <li>📙 Check out my <a href="https://github.com/cbsBiram/cbsBiram/blob/master/CV_IBD_US.pdf">resume</a>.</li>
 </ul>
@@ -55,6 +55,43 @@
 </p>
 
 <br />
+
+## 📖 Open source projects
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/cbsBiram/Xarala"><b>Xarala: An E-learning platform.</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/cbsBiram/Xarala?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/cbsBiram/Xarala?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/cbsBiram/Xarala?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cbsBiram/Xarala?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/cbsBiram/chicken-house"><b>Chicken House: Application for the management of a poultry house.</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/cbsBiram/chicken-house?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/cbsBiram/chicken-house?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/cbsBiram/chicken-house?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cbsBiram/chicken-house?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/cbsBiram/sick-fits"><b>Sick-fits : An application built with React, GraphQL and Node to sell stuffs likes shoes, bags, chairs, etc. .</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/cbsBiram/sick-fits?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/cbsBiram/sick-fits?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/cbsBiram/sick-fits?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cbsBiram/sick-fits?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
 
 <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=cbsBiram&show_icons=true&count_private=true" alt="cbsBiram" />
